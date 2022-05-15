@@ -1,0 +1,25 @@
+{
+  "pokemons": [
+    {
+      "name": "Мьюту",
+      "height": "1.65 м",
+      "weight": " 100 кг",
+      "power": 110,
+      "id": 1
+    },
+    {
+      "name": "Мелоэтта",
+      "height": "0,6 м",
+      "weight": " kg",
+      "power": 77,
+      "id": 2
+    },
+    {
+      "name": "Галлейд",
+      "height": "1.6 м",
+      "weight": "52 kg",
+      "power": 125,
+      "id": 3
+    }
+  ]
+}
